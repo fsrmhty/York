@@ -1,0 +1,87 @@
+{
+  "collectionName": "Top Computer Science Books 2024",
+  "publisher": "CodeMaster Publications",
+  "yearPublished": 2024,
+  "books": [
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "pages": 464,
+      "topics": ["Software Development", "Best Practices", "Code Quality"],
+      "price": 39.99,
+      "description": "This book is a must-read for any developer looking to improve their coding skills. It presents a revolutionary paradigm for writing quality code with practical advice on everything from naming variables to handling errors. The book includes case studies demonstrating how to transform problematic code into clean, efficient implementations."
+    },
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "pages": 395,
+      "topics": ["Design Patterns", "OOP", "Software Architecture"],
+      "price": 49.99,
+      "description": "This classic book introduces 23 design patterns that solve common problems in object-oriented software design. The authors explain each pattern with concrete examples and diagrams, showing how to apply them in real-world situations. Often called the 'Gang of Four' book, it remains essential reading for software architects."
+    },
+    {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "pages": 1312,
+      "topics": ["Algorithms", "Data Structures", "Computer Science"],
+      "price": 89.99,
+      "description": "Commonly known as CLRS, this comprehensive textbook covers a broad range of algorithms in depth while making their design and analysis accessible to all levels of readers. Each chapter presents an algorithm, design techniques, applications, and extensive exercises. The latest edition includes new chapters on machine learning and algorithmic game theory."
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "pages": 352,
+      "topics": ["Software Development", "Career Growth", "Best Practices"],
+      "price": 34.99,
+      "description": "This book covers the essence of software development with timeless advice on everything from personal responsibility to architectural techniques. The authors share their insights on approaching programming as a craft rather than just a job. Filled with practical tips and real-world experience that helps developers become more effective."
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs",
+      "author": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
+      "pages": 657,
+      "topics": ["Computer Science", "Programming Paradigms", "Lisp"],
+      "price": 54.99,
+      "description": "This legendary book (SICP) uses the Scheme programming language to teach fundamental concepts of computer science. It emphasizes abstraction, modularity, and metalinguistic abstraction as tools for controlling complexity in large systems. The book challenges readers to think differently about programming and problem-solving."
+    },
+    {
+      "title": "Code Complete: A Practical Handbook of Software Construction",
+      "author": "Steve McConnell",
+      "pages": 960,
+      "topics": ["Software Construction", "Coding Techniques", "Project Management"],
+      "price": 45.99,
+      "description": "This comprehensive handbook covers the entire software construction process with practical advice on everything from variable naming to system integration. The book synthesizes hundreds of studies and the author's extensive experience into actionable guidelines for writing high-quality, maintainable code."
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "pages": 448,
+      "topics": ["Code Refactoring", "Software Maintenance", "Design Patterns"],
+      "price": 49.99,
+      "description": "This book introduces refactoring as a disciplined technique for improving existing code. It presents a catalog of refactorings with step-by-step instructions and examples in JavaScript. Essential for anyone working with legacy code or wanting to improve their ability to write maintainable software."
+    },
+    {
+      "title": "The Art of Computer Programming",
+      "author": "Donald E. Knuth",
+      "pages": 650,
+      "topics": ["Algorithms", "Mathematical Programming", "Computer Science"],
+      "price": 79.99,
+      "description": "Knuth's magnum opus covers fundamental algorithms and data structures with mathematical rigor and depth. The books are known for their challenging exercises and thorough treatment of each topic. While not for beginners, this series is essential reading for serious computer scientists."
+    },
+    {
+      "title": "Head First Design Patterns",
+      "author": "Eric Freeman, Elisabeth Robson",
+      "pages": 694,
+      "topics": ["Design Patterns", "Object-Oriented Design", "Learning Techniques"],
+      "price": 44.99,
+      "description": "This book provides a visually rich format to engage your mind with design patterns rather than a text-heavy approach. Using the latest research in cognitive science, it helps you learn patterns through puzzles, exercises, and interactive elements. A must-have for developers looking to write more flexible code."
+    },
+    {
+      "title": "You Don't Know JS Yet",
+      "author": "Kyle Simpson",
+      "pages": 280,
+      "topics": ["JavaScript", "Web Development", "Programming Languages"],
+      "price": 29.99,
+      "description": "This book series dives deep into JavaScript's core mechanisms. It covers everything from scope and closures to prototypes and async programming. Perfect for developers who want to truly understand JavaScript at a fundamental level rather than just learning enough to get by."
+    }
+  ]
+}
